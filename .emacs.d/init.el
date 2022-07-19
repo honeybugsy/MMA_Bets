@@ -1,1 +1,0 @@
-/home/manny/.emacs.d/init.el
